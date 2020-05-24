@@ -18,7 +18,7 @@ public class StudentList {
      */
     public static void main(String[] args) {
         
-        Student[] students = new Student[2];
+        Student[] students = new Student[3];
         
         Scanner input = new Scanner(System.in);
         
